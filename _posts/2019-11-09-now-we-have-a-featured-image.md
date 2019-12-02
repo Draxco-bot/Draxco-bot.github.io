@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Now we have a featured image
+title: Samuel's Portfolio
 date: '2019-11-09 16:38:39'
-thumbnail: /images/uploads/invention-industrial-steampunk.jpg
-tags: featured image
+thumbnail: /images/uploads/screenshot_20191202-173315_instagram.jpg
+tags: ''
 ---
-Hmmm. We will need to furnish alt and title from the article. It is a little strange too.
+Insight into the quality projects I have been working on.
