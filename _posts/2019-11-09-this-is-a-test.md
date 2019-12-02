@@ -1,9 +1,8 @@
 ---
 layout: default
-title: This is a test
+title: BranTransit Map
 date: '2019-11-09 16:28:16'
+thumbnail: /images/uploads/zum_2022.jpg
 tags: entrepreneurship
 ---
-![Global Entrepreneurship Summit](/images/uploads/2016_global_entrepreneurship_summit_logo_color_800_1.jpg "Global Entrepreneurship Summit")
-
-Changing this now. I don't know why it is so strange????
+Creating an actual map for the Brantford transit system. Due to the Brantford bus system not being on google maps it is very difficult to find out the routes that each bus takes. There is a verbal description of the path the bus takes but there is not a visual map.
