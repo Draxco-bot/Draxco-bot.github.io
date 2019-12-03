@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact Information
-date: '2019-12-02 19:05:11'
+date: '2019-11-29 19:05:11'
 thumbnail: /images/uploads/contact-us-icon.jpg
 ---
 Email: samuelaryeetey@yahoo.ca
