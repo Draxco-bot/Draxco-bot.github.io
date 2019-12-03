@@ -4,4 +4,4 @@ title: About
 id: about
 ---
 
-This is my about page!!!!
+Contact me for more information 
